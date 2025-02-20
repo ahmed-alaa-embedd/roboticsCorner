@@ -1,2 +1,2 @@
-# FaceDetetion
-using qt designer
+# socket programming 
+using linux
