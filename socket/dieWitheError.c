@@ -1,3 +1,4 @@
+//author: ahmed alaa
 #include <stdio.h>
 #include <stdlib.h>
 
