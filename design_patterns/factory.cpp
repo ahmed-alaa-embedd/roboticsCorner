@@ -5,13 +5,13 @@
 
 class shape
 {
-public:
+    public:
     virtual std::string getname () = 0;
 };
 
 class triangle : public shape
 {
-public:
+    public:
     std::string getname() override { return "triangle";}
 };
 
